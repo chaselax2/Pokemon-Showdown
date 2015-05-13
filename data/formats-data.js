@@ -2142,7 +2142,7 @@ exports.BattleFormatsData = {
 			{"generation":3,"level":70,"moves":["blazekick","slash","mirrormove","skyuppercut"]},
 			{"generation":5,"level":50,"isHidden":false,"moves":["flareblitz","highjumpkick","thunderpunch","stoneedge"],"pokeball":"cherishball"}
 		],
-		tier: "Uber"
+		tier: "OU"
 	},
 	blazikenmega: {
 		randomBattleMoves: ["flareblitz","highjumpkick","protect","swordsdance","substitute","batonpass","stoneedge","knockoff"],
@@ -3802,7 +3802,7 @@ exports.BattleFormatsData = {
 	shayminsky: {
 		randomBattleMoves: ["seedflare","earthpower","airslash","hiddenpowerfire","substitute","leechseed","healingwish"],
 		randomDoubleBattleMoves: ["seedflare","earthpower","airslash","hiddenpowerfire","rest","substitute","leechseed","tailwind","protect","hiddenpowerice"],
-		tier: "Uber"
+		tier: "OU"
 	},
 	arceus: {
 		randomBattleMoves: ["swordsdance","extremespeed","shadowclaw","earthquake","recover"],
@@ -4878,7 +4878,7 @@ exports.BattleFormatsData = {
 		eventPokemon: [
 			{"generation":6,"level":36,"isHidden":true,"moves":["watershuriken","shadowsneak","hydropump","substitute"],"pokeball":"cherishball"}
 		],
-		tier: "Uber"
+		tier: "OU"
 	},
 	bunnelby: {
 		randomBattleMoves: ["agility","earthquake","return","quickattack","uturn","stoneedge","spikes","bounce"],
@@ -4900,7 +4900,7 @@ exports.BattleFormatsData = {
 	talonflame: {
 		randomBattleMoves: ["bravebird","flareblitz","roost","swordsdance","uturn","willowisp","tailwind"],
 		randomDoubleBattleMoves: ["bravebird","flareblitz","roost","swordsdance","uturn","willowisp","tailwind","taunt","protect"],
-		tier: "OU"
+		tier: "Uber"
 	},
 	scatterbug: {
 		randomBattleMoves: ["tackle","stringshot","stunspore","bugbite","poisonpowder"],
@@ -5001,7 +5001,7 @@ exports.BattleFormatsData = {
 		eventPokemon: [
 			{"generation":6,"level":50,"gender":"F","nature":"Quiet","moves":["wideguard","kingsshield","shadowball","flashcannon"],"pokeball":"cherishball"}
 		],
-		tier: "Uber"
+		tier: "OU"
 	},
 	spritzee: {
 		randomBattleMoves: ["calmmind","drainingkiss","moonblast","psychic","aromatherapy","wish","trickroom","thunderbolt"],
